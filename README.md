@@ -2,11 +2,12 @@
 Several versions of a generic AFDataViewer using AF SDK UI controls.  Each version builds upon the previous.  Displays data for a selected AFAttribute for a specified time range.
 
 # At-a-glance
-WinForm application
-.NET Framework 4.5.2
-AF SDK 2.9 or later
-Visual Studio 2017
-C# 7.0 (does not use Tuples)
+- WinForm application
+- .NET Framework 4.5.2
+- AF SDK 2.9 or later
+- Visual Studio 2017
+- C# 7.0 
+- Does not use tuples so we can use previous version of .NET.
 
 # Versions
 
